@@ -57,7 +57,7 @@
 - Entendi os conceitos básicos de variáveis para melhor resolução de problemas que envolvem as linguagens de programação em geral;
 - Aprendi a aplicar tipagens básicas de TypeScript no JavaScript de forma adequada;
 - Entendi o conceito básico de array e loop para melhor utilizar listas em problemas e soluções de programação;
-- Entendi o básico de objetos para combinar dados de comportamentos das instâncias de classes;
+- Entendi o básico de objetos para armazenar dados de forma mais eficiente, deixando meu código mais clean e organizado;
 - Aprendi os concietos de soft skills para melhor interagir com colegas de trabalho e tambem fora dele;
 - Tive uma ideia de algumas áreas na carreira de tecnologia, e pude pensar com mais claresa sobre as mesmas;
 - Aprendi o valor real da ética na tecnologia, o que me fez refletir sobre, e também pensar em como a ética na tecnologia é importante;
