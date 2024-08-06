@@ -5,14 +5,14 @@
 ## Conteúdos a serem trabalhados nesse módulo:
 
 - Aprofundamento em Lógica;
-- Funções
-- Tipos de dados
-- Tipos Utilitários
-- Métodos de Arrays
+- Funções.
+- Tipos de dados.
+- Tipos Utilitários.
+- Métodos de Arrays.
 - Carreira;
-- Gestão de tempo
-- Postura Profissional
-- LinkedIn: primeiros passos
+- Métodologias ágeis.
+- Leitura de documentação e pesquisa.
+- Diversidade e inclusão na tecnologia.
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
@@ -30,9 +30,9 @@
 - Quero aprender funções para melhor entender as diferentes partes de um programa ao todo;
 - Quero me aprofundar em TypeScrit, e por sua vez nos tipos utilitários que podem me permitir a evoluir cada dia mais em linguagens tipadas;
 - Quero aprender vários métodos de arrays uteis para que possa ser util em projetos futuros;
-- Quero saber como gerenciar meu tempo com maestria para tornar meu aprendizado ainda mais eficiente;
-- Quero saber como melhorar minha postura profissional para que possa ser um profissional cada dia melhor;
-- Quero aprender passo a passo como otimizar minha experiencia com o LinkedIn para melhor aproveitar minhas oportunidades;
+- Quero aprender como funcionam as métodologias ágeis na área da tecnologia;
+- Quero aprender a melhor maneira de entender uma documentação;
+- Aprender mais sobre a diversidade e inclusão na tecnologia para melhor trabalhar com todos os tipos de pessoas;
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 - Aprendi que 'Function' são blocos de código reutilizáveis que executam tarefas específicas e que podem ser chamadas sempre que necessárias. Ela evita duplicação de código, facilitando assim a manutenção do mesmo. Ela facilita a depouração, já que cada função pode ser testada individualmente. Utilizando de abstração para encapsular a lógica, permitindo que possamos nos concentrar em um nível mais alto de desenvolvimento. Utilizar funcões de maneira eficiente pode aumentar significativamente a produtividade e qualidade do software;
@@ -51,3 +51,36 @@
 
 - Carreira: 
 
+- Aprendi com a aula de Métodologias ágeis.
+- Mitos de métodologias ágeis: Só funcionam em projetos pequenos. Na verdade não, empresas grandes como facebook e instagram também as utilizam. É a solução para todos os problemas. Não são, métodologia ágil não faz milagre ela te auxilia. Você consegue desenvolver o projeto mais rápido. Na verdade pode até mesmo atrasar um projeto caso a equipe não esteja adaptada a esse método. Você nunca sabe quando o projeto vai terminar. Mas sim podemos determinar um prazo para o projeto;
+- Maniferto para Desenvolvimento Ágil de Software. Estamos descobrindo maneiras melhores de desenvolver sogftware, fazendo-o nós mesmos e ajudando outros a fazerem o mesmo. Através deste trabalho, passamos a valorizar: Indivíduos e interações mais que processos e ferramentas. Software em funcionamento mais que documentação de abrangente. Colaboração com o cliente mais que negociação de contratos Responder a mudanças mais que seguir um plano. Ou seja, mesmo havendo valor nos itens à direita, valorizamos mais os itens da esquerda.
+- No caso é usado para melhorar o contato com o cliente. Sendo as pricipais diferenças do ágil: Transparência, inspeção e adaptação. Melhorando assim o desenvolvimento o deixando de forma ágil, ganhando feedbacks durante o desenvolvimento do projeto e não apenas no final, podendo adaptar caso haja alguma mudança repentina da parte do cliente resolvendo de imediato sem precisar esperar o termino para relatar mudanças. Planejar é útil. Seguir cegamente os planos é burrice. Inspeção e adaptação. Mude ou morra. Fracasse rápido para que possa corrigir o problema o quanto antes.
+- Método Scrum: Possui como pilares a Transparência, inspeção e adaptação.
+    O trabalho é dividido em pequenos ciclos de entrega, que chamamos de sprint. A sprint pode variar entre 1 e 4 semanas.
+    Cada equipe é um organismo em si: Auto-organizavél e pequena, de três a nove pessoas.
+    Utiliza o kaban em sua estrutura interna como gestão à vista.
+    Busca priorizar as atividades ao início do ciclo para a atuação do time.
+- Utilizar métodologias ágeis é bom para ambas as partes, tanto cliente quanto equipe de desenvolvimento.
+
+- Aprendi com a aula de Leitura de documentação e pesquisa: 
+-O que é uma documentação?
+    Conjunto de materiais escritos ou ilustrados que explicam o funcinamento de um software.
+    Documentação Técnica.
+    Documentação de Usuário.
+    Documentação de API.
+    Tutoriais e Guias.
+- Uma documentação pode nos ajudar de diferentes formas.
+    Ajudando com resoluções de problemas de nivel básico a avançado.
+    Ajuda no aprendizado e na adaptação.
+    Usar documentação é uma ótima prárica para quem trabalha com tecnologia.
+    Para obter referência rápida do que precisamos.
+    Ajuda na segurança de projetar e também nas conformidades necessárias de um projeto.
+    Usado para gerar comunicação e colaboração de uma equipe dentro de um projeto e fora também.
+    Contem relatos de inovações e extensões uteis para projetos futuros.
+
+- Aprendi com a aula de diversidades e inclusão na tecnologia.
+    Os temas se relacionam por ter pessoas usando e desenvolvendo a tecnologia, diferentes tipos de pessoas. Pessoas no fim de tudo ainda são pessoas, independente de cor, etnia, sexualidade e tudo.
+    Sempre bom pensar em todos os tipos de pessoas para desenvolver projetos, nada voltado para somente um publico, para que todas as pessoas independente de tudo possam usar o mesmo projeto.
+    O preconceito está em todos, mas cabe a cada um de nós aprender a cada dia como ser melhor dentro de uma sociedade tão diversa.
+    Ter conciencia de incluir a todos independente de seus gostos, cores, etnias e tudo mais.
+    Depende da gente programar projetos que incluam as pessoas no geral para que nossos projetos sejam bons para todos.
