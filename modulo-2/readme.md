@@ -20,9 +20,9 @@
 - Funções são blocos de código que realizam uma tarefa específica e podem ser realizados em diferentes partes de um programa;
 - Os tipos utilitários são ferramentas poderosas em linguagens de programação tipadas, como TypeScript, que permitem manipular e transformar tipos de maneira eficiente. Eles são usados para criar novos tipos baseados em tipos existentes, facilitando o desenvolvimento de código seguro e reutilizável;
 - Os métodos de arrays em JavaScript são funções integradas que permitem realizar várias operações em arrays, como adicionar, remover, encontrar ou modificar elementos;
-- A gestão de tempo é uma habilidade crucial para aumentar a produtividade e reduzir o estresse. Envolve a organização e planejamento de como dividir seu tempo entre diferentes atividades;
-- Manter a pontualidade, evitar se envolver em fofocas e separar o pessoal do profissional. São exemplos de postura profissional;
-- Os primeiros passos do LinkedIn são fundamentais para ter mais chances de empregabilidade. O uso de palavras chave adequadas, atentar-se ao campo "Experiências Profissionais, são passos basicos e super importantes;
+- Métodologias ágeis não são apenas para atribuir agilidade para um projeto mas sim deixar o mesmo mais humanizado, podendo assim melhorar o desenvolvimento tanto do projeto como da relação com o cliente;
+- Documentação é uma das formas mais úteis de se aprender programação, facilitando o entendimeto por conta dos detalhes e dando liberdade de testes para o desenvolvedor;
+- Diversidade e inclusão na tecnologia é muito importante para melhor desenvolvermos nossos projetos pensando no todo, tornando os mesmos mais úteis para todos os tipos de pessoas.
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
