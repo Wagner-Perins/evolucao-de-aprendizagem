@@ -80,7 +80,7 @@
 
 - Aprendi com a aula de diversidades e inclusão na tecnologia.
     Os temas se relacionam por ter pessoas usando e desenvolvendo a tecnologia, diferentes tipos de pessoas. Pessoas no fim de tudo ainda são pessoas, independente de cor, etnia, sexualidade e tudo.
-    Sempre bom pensar em todos os tipos de pessoas para desenvolver projetos, nada voltado para somente um publico, para que todas as pessoas independente de tudo possam usar o mesmo projeto.
+    Sempre bom pensar em todos os tipos de pessoas para desenvolver projetos, nada voltado para somente um público, para que todas as pessoas independente de tudo possam usar o mesmo projeto.
     O preconceito está em todos, mas cabe a cada um de nós aprender a cada dia como ser melhor dentro de uma sociedade tão diversa.
-    Ter conciencia de incluir a todos independente de seus gostos, cores, etnias e tudo mais.
-    Depende da gente programar projetos que incluam as pessoas no geral para que nossos projetos sejam bons para todos.
+    Ter conciência de incluir a todos independente de seus gostos, cores, etnias e tudo mais.
+    Depende da gente programar projetos que incluam as pessoas no geral para que sejam úteis para todos.
