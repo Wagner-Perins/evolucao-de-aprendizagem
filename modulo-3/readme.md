@@ -23,7 +23,7 @@
 - Implementação de servidores é muito importante para backend no geral;
 - Rotas, intermediários e controladores fazem parte do percurso que uma requisição passa dentro do servidor;
 - API REST é uma forma de construir aplicaçoes modernas utilizando certos padrões e tecnicas tendo o controle do que ele faz dentro de um servidor;
-- Orientações a Objetos é utilizado para construir aplicações solidas e trazendo conceitos de outras linguagens;
+- Orientações a Objetos é utilizado para construir aplicações sólidas e trazendo conceitos de outras linguagens;
 - Tecnicas de assincronismo e leitura e escrita em arquivo usado de forma com que nosso trabalho fique muito mais profissional;
 - Saber tratar erros no backend é essencial, usando herança e polimorfismo para trata-los para deixar mais organizados;
 
@@ -34,7 +34,7 @@
 - Quero aprender a desenvolvor de forma mais profissional meus servidores backend;
 - Aprender sobre rotas, intermediários e controladores para evoluir projetos e deixalos mais eficazes;
 - Quero aprender a usar o API REST para criar novos projetos de forma mais eficaz;
-- Aprender orientações a objetos para contruir aplicações mais solidas e acertivas;
+- Aprender orientações a objetos para contruir aplicações mais sólidas e acertivas;
 - APrender sobre assincronismo e também leitura e escrita em arquivos para que meus projetos fiquem cada vez mais profissionais;
 - Quero aprender como tratar erros corretamento fazendo com que meus projetos fiquem mais limpos e organizados;
 
